@@ -2,5 +2,5 @@
 2:I[33031,["/Prova-Game/_next/static/chunks/0dbhjjzl8qfwv.js","/Prova-Game/_next/static/chunks/16qriyvvkpvqu.js"],"default"]
 3:I[97367,["/Prova-Game/_next/static/chunks/0dbhjjzl8qfwv.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"children":[["$","h1",null,{"children":"Prova Jogo"}],["$","$L2",null,{}]]}],[["$","script","script-0",{"src":"/Prova-Game/_next/static/chunks/16qriyvvkpvqu.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Kk6PfqJm99OKNxjsC2PX9"}
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"children":[["$","h1",null,{"children":"Prova Jogo"}],["$","$L2",null,{}]]}],[["$","script","script-0",{"src":"/Prova-Game/_next/static/chunks/16qriyvvkpvqu.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"s_n5YQ-SJldqBB40-qMdp"}
 5:null

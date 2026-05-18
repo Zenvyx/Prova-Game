@@ -1,2 +1,2 @@
 :HL["/Prova-Game/_next/static/chunks/0kz6sdhwhqpok.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"Kk6PfqJm99OKNxjsC2PX9"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"s_n5YQ-SJldqBB40-qMdp"}
