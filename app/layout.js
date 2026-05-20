@@ -1,16 +1,16 @@
-import './style.css'
+import "./style.css";
 
 export const metadata = {
-  title: 'Prova Jogo',
-  description: 'Projeto de faculdade com Next.js',
-}
+  title: "Prova Jogo",
+  description: "Projeto faculdade",
+};
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="pt">
+    <html lang="pt-BR">
       <body>
         {children}
       </body>
     </html>
-  )
+  );
 }
